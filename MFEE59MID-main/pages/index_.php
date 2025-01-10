@@ -6,4 +6,5 @@
 <h2>這裡寫內容</h2>
 
 <?php include __DIR__ . '/includes/html-content wrapper-end.php'; ?>
+<?php include __DIR__ . '/includes/html-script.php'; ?>
 <?php include __DIR__ . '/includes/html-footer.php'; ?>
