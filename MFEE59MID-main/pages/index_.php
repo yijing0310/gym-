@@ -1,4 +1,4 @@
-<!-- 要補資料庫連線資料 -->
+<?php require __DIR__ . '/includes/init.php';?>
 <?php include __DIR__ . '/includes/html-header.php'; ?>
 <?php include __DIR__ . '/includes/html-sidebar.php'; ?>
 <?php include __DIR__ . '/includes/html-layout-navbar.php'; ?>
