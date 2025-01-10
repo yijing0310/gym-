@@ -56,4 +56,5 @@
       </div>
     </div>
 <?php include __DIR__ . '/includes/html-content wrapper-end.php'; ?>
+<?php include __DIR__ . '/includes/html-script.php'; ?>
 <?php include __DIR__ . '/includes/html-footer.php'; ?>
